@@ -50,7 +50,7 @@
               <div class="full">
                 <div class="center-desk">
                   <div class="logo">
-                    <a href="index.html"><img class="logo" src="images/ois-logo-1.png" alt="#" /></a>
+                    <a href="index.php"><img class="logo" src="images/ois-logo-1.png" alt="#" /></a>
                   </div>
                 </div>
               </div>
@@ -61,7 +61,7 @@
                   <div class="limit-box">
                     <nav class="main-menu ">
                       <ul class="menu-area-main">
-                        <li class="active"> <a href="index.html">Home</a> </li>
+                        <li class="active"> <a href="index.php">Home</a> </li>
                         <li> <a href="#courses">My Courses </a> </li>
                         <li> <a href="#about">About</a> </li>
                         <li> <a href="#learn">My Profile</a> </li>
@@ -509,8 +509,8 @@
                     <h3>Information</h3>
                     <ul class="Links_footer">
                       <li class="active"><a href="#">School Tour</a> </li>
-                      <li><a href="#">Student Lifes</a> </li>
-                      <li><a href="#">Cholarship</a> </li>
+                      <li><a href="#">Student Life</a> </li>
+                      <li><a href="#">Scholarship</a> </li>
                       <li><a href="#"> Admission</a> </li>
                       <li><a href="#">Leadership</a> </li>
                     </ul>
