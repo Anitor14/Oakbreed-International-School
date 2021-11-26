@@ -312,12 +312,13 @@
             </div>
           </div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 border_left" style="text-align:left">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 border_left">
           <div class="box_text">
             <div class="titlepage">
-              <h2>Admission <strong class="yellow"> Procedure</strong></h2>
+              <h2 style="text-align:left">Admission <strong class="yellow"> Procedure</strong></h2>
             </div>
-            <p>The parents are requested to visit the school Admission Office, fill out the registration form and
+            <p style="text-align:left">The parents are requested to visit the school Admission Office, fill out the
+              registration form and
               purchase the school prospectus. Kindly carry one latest Passport size photo of the child and the parent
               along with self-attested Date of Birth certificate. Alternatively Parents may also download the
               application form online by clicking here (give the link). Once the form is filled, please take a printout
