@@ -181,8 +181,8 @@
       <div class="row">
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
           <div class="about-box">
-            <h2>ABOUT <strong class="yellow">OAKBREED </strong></h2>
-            <p style="text-align:center"> As one of the best schools in Port Harcourt, Oak Breed International school
+            <h2 style="text-align:left">ABOUT <strong class="yellow">OAKBREED </strong></h2>
+            <p style="text-align:left"> As one of the best schools in Port Harcourt, Oak Breed International school
               has very good infrastructure in terms
               of building and supporting facilities. The school had been renovated from its original condition into a
               two-floor construction. When you arrive at the front yard of this school, you will be greeted by a
@@ -312,7 +312,7 @@
             </div>
           </div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 border_right">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 border_left" style="text-align:left">
           <div class="box_text">
             <div class="titlepage">
               <h2>Admission <strong class="yellow"> Procedure</strong></h2>
