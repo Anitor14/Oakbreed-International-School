@@ -9,12 +9,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="viewport" content="initial-scale=1, maximum-scale=1">
   <!-- site metas -->
-  <title>mind</title>
+  <title>OIS</title>
   <meta name="keywords" content="">
   <meta name="description" content="">
   <meta name="author" content="">
   <!-- fevicon -->
-  <link rel="icon" href="images/fevicon.png" type="image/gif" />
+  <link rel="icon" href="images/ois-favicon.png" type="image/gif" />
   <!-- bootstrap css -->
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <!-- style css -->
@@ -102,7 +102,7 @@
                     </div>
                     <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                       <div class="images_box">
-                        <figure><img src="images/ois-image-1.jpg"></figure>
+                        <figure><img src="images/ois-image-1.jpg" width="90%" height="90%"></figure>
                       </div>
                     </div>
                   </div>
@@ -125,7 +125,7 @@
 
                     <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                       <div class="images_box">
-                        <figure><img src="images/ois-image-2.jpg"></figure>
+                        <figure><img src="images/ois-image-2.jpg" width="90%" height="90%"></figure>
                       </div>
                     </div>
                   </div>
@@ -149,7 +149,7 @@
                     </div>
                     <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                       <div class="images_box">
-                        <figure><img src="images/ois-image-3.jpg"></figure>
+                        <figure><img src="images/ois-image-3.jpg" width="90%" height="90%"></figure>
                       </div>
                     </div>
                   </div>
@@ -195,8 +195,8 @@
           </div>
         </div>
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-          <div class="about-box">
-            <figure><img src="images/ois-image-4.jpg" alt="#" /></figure>
+          <div class="about-box" style="margin: top 15px;">
+            <figure><img src="images/ois-image-4.jpg" alt="#" width="90%" height="100%" /></figure>
           </div>
         </div>
       </div>
@@ -359,7 +359,7 @@
             <figure><img src="images/img.jpg" alt="img" /></figure>
           </div> -->
         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
-          <video width="320" height="240" autoplay muted>
+          <video width="90%" height="90%" autoplay muted>
             <source src="Videos/Travis Scott - SICKO MODE ft. Drake.mp4" type="video/mp4">
             <source src="Videos/Travis Scott - SICKO MODE ft. Drake.mp4" type="video/ogg">
             Your browser does not support the video tag.
