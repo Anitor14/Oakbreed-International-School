@@ -46,7 +46,7 @@
       <div class="header">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-xl-2 col-lg-4 col-md-4 col-sm-3 col logo_section pull-left">
+            <div class="col-xl-2 col-lg-4 col-md-4 col-sm-3 col logo_section">
               <div class="full">
                 <div class="center-desk">
                   <div class="logo">
@@ -95,7 +95,7 @@
                   <div class="row">
                     <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
                       <div class="text-bg">
-                        <h1>OAKBREED INTERNATIONAL SCHOOL</h1>
+                        <h1>OAKBREED INTERNATIONAL SCHOOLS</h1>
                         <p>Provision of well trained and experienced Teachers</p>
                         <a href="#">Read more</a> <a href="#">get a qoute</a>
                       </div>
@@ -182,7 +182,7 @@
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
           <div class="about-box">
             <h2 style="text-align:left">ABOUT <strong class="yellow">OAKBREED </strong></h2>
-            <p style="text-align:left"> As one of the best schools in Port Harcourt, Oak Breed International school
+            <p style="text-align:left"> As one of the best schools in Port Harcourt, OakBreed International schools
               has very good infrastructure in terms
               of building and supporting facilities. The school had been renovated from its original condition into a
               two-floor construction. When you arrive at the front yard of this school, you will be greeted by a
@@ -214,13 +214,13 @@
         <div class="col-md-12">
           <div class="titlepage">
             <h2>Some <strong class="yellow">important facts</strong></h2>
-            <span>Oakbreed International Secondary School is an age appropriate learning Institution
+            <span>Oakbreed International Schools is an age appropriate learning Institution
               that caters to the psychological, emotional and cognitive needs of the learner.</span>
           </div>
         </div>
       </div>
     </div>
-    <div class="important_bg">
+    <!-- <div class="important_bg">
       <div class="container">
         <div class="row">
 
@@ -256,7 +256,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
   </div>
 
@@ -267,8 +267,14 @@
       <div class="row">
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
           <div class="box_bg">
-            <div class="box_bg_img">
-              <div class="row">
+            <!-- <div class="box_bg_img"> -->
+            <!-- <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12"> -->
+            <!-- <div class="make_img"> -->
+            <figure><img src="images/ois-admission.jpg"></figure>
+            <!-- </div> -->
+            <!-- </div> -->
+            <!-- <div class="row">
+
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                   <div class="box_my">
                     <figure><img src="images/ois-image-2.jpg"></figure>
@@ -308,16 +314,17 @@
 
 
 
-              </div>
-            </div>
+              </div> -->
+            <!-- </div> -->
           </div>
         </div>
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 border_left">
           <div class="box_text">
             <div class="titlepage">
-              <h2 style="text-align:left">Admission <strong class="yellow"> Procedure</strong></h2>
+              <h2 style="text-align:left">Admission <strong class="white_colo"> Process</strong></h2>
             </div>
-            <p style="text-align:left">The parents are requested to visit the school Admission Office, fill out the
+            <p style="text-align:left;color: white;">The parents are requested to visit the school Admission Office,
+              fill out the
               registration form and
               purchase the school prospectus. Kindly carry one latest Passport size photo of the child and the parent
               along with self-attested Date of Birth certificate. Alternatively Parents may also download the
@@ -382,7 +389,7 @@
       <div class="row">
         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
           <div class="make_text">
-            <p>The Oakbreed International school believes very strongly in the educational value of well planned visits
+            <p>The Oakbreed International schools believes very strongly in the educational value of well planned visits
               and is a
               firm supporter of outdoor education. An educational trip is an off-campus learning activity that brings
               excitement and adventure to learning. A well planned field trip is an ideal way to introduce new skills
@@ -393,7 +400,7 @@
         </div>
         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
           <div class="make_img">
-            <figure><img src="images/ois-student.jpg"></figure>
+            <figure><img src="images/ois-standout.jpg"></figure>
           </div>
         </div>
       </div>
@@ -410,9 +417,9 @@
         <div class="row">
 
           <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-            <div id="map">
+            <div class="make_img">
+              <figure><img src="images/ois-contact.jpg"></figure>
             </div>
-
           </div>
           <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
 
@@ -461,7 +468,7 @@
             </div>
             <div class="col-md-12">
               <h2>Newsletter</h2>
-              <span>Oakbreed International School is committed to nurture the inherent potential and talent of each
+              <span>Oakbreed International Schools is committed to nurture the inherent potential and talent of each
                 child,
                 creating lifelong learners who will be the leaders of tomorrow. With parents as our partners, we aspire
                 to create global citizens who are innovative and have a strong sense of values. </span>
