@@ -266,7 +266,7 @@
     <div class="container-fluid padding_left3">
       <div class="row">
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-          <div class="box_bg">
+          <!-- <div class="box_bg"> -->
             <!-- <div class="box_bg_img"> -->
             <!-- <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12"> -->
             <!-- <div class="make_img"> -->
@@ -316,7 +316,7 @@
 
               </div> -->
             <!-- </div> -->
-          </div>
+          <!-- </div> -->
         </div>
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 border_left">
           <div class="box_text">
@@ -395,7 +395,7 @@
               excitement and adventure to learning. A well planned field trip is an ideal way to introduce new skills
               and concepts to children, reinforce ongoing lessons and influence the learning potential.
             </p>
-            <a href="Javascript:void(0)">Start now</a>
+            <a href="#contact">Start now</a>
           </div>
         </div>
         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
