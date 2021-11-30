@@ -267,13 +267,16 @@
       <div class="row">
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
           <!-- <div class="box_bg"> -->
-            <!-- <div class="box_bg_img"> -->
-            <!-- <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12"> -->
-            <!-- <div class="make_img"> -->
-            <figure><img src="images/ois-admission.jpg"></figure>
-            <!-- </div> -->
-            <!-- </div> -->
-            <!-- <div class="row">
+          <!-- <div class="box_bg_img"> -->
+          <!-- <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12"> -->
+          <!-- <div class="make_img"> -->
+          <!-- <figure ><img src="images/ois-admission.jpg"></figure> -->
+          <div class="about-box" style="margin: top 15px;">
+            <figure><img src="images/ois-admission.jpg" alt="#" width="90%" height="100%" /></figure>
+          </div>
+          <!-- </div> -->
+          <!-- </div> -->
+          <!-- <div class="row">
 
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                   <div class="box_my">
@@ -315,7 +318,7 @@
 
 
               </div> -->
-            <!-- </div> -->
+          <!-- </div> -->
           <!-- </div> -->
         </div>
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 border_left">
@@ -348,9 +351,9 @@
   <div id="learn" class="learn">
     <div class="container">
       <div class="row">
-        <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
           <div class="titlepage">
-            <h2>Learn <strong class="yellow">the Practical way</strong></h2>
+            <h2 class="text-center">Learn <strong class="yellow">the Practical way</strong></h2>
             <span>Oakbreed International School believes there is more to life than academic success. We actively uphold
               a
               balanced approach to education; one that develops students who excel both inside and outside the
@@ -365,13 +368,13 @@
         <!-- <div class="learn_box">
             <figure><img src="images/img.jpg" alt="img" /></figure>
           </div> -->
-        <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
+        <!-- <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
           <video width="90%" height="90%" autoplay muted>
             <source src="Videos/Travis Scott - SICKO MODE ft. Drake.mp4" type="video/mp4">
             <source src="Videos/Travis Scott - SICKO MODE ft. Drake.mp4" type="video/ogg">
             Your browser does not support the video tag.
           </video>
-        </div>
+        </div> -->
         <!-- </div> -->
       </div>
     </div>
@@ -484,17 +487,18 @@
                         Agip Estate Rumueme Port Hacourt <br>Nigeria
                       </li>
                       <li>
-                        <a href="#"><img src="icon/email.png" alt="#" /></a>demo@gmail.com
+                        <a href="#"><img src="icon/email.png" alt="#" /></a>oakbreedinternationalschools@gmail.com
                       </li>
                       <li>
                         <a href="#"><img src="icon/call.png" alt="#" /></a>08033076348,09081856157
                       </li>
                     </ul>
                     <ul class="social_link">
-                      <li><a href="#"><img src="icon/fb.png"></a></li>
-                      <li><a href="#"><img src="icon/tw.png"></a></li>
-                      <li><a href="#"><img src="icon/lin(2).png"></a></li>
-                      <li><a href="#"><img src="icon/instagram.png"></a></li>
+                      <li><a href="https://www.facebook.com/Oakbreed-Intl-Schools-764016597069169"><img
+                            src="icon/fb.png"></a></li>
+                      <!-- <li><a href="#"><img src="icon/tw.png"></a></li> -->
+                      <!-- <li><a href="#"><img src="icon/lin(2).png"></a></li> -->
+                      <!-- <li><a href="#"><img src="icon/instagram.png"></a></li> -->
                     </ul>
 
                   </div>
